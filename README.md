@@ -13,7 +13,7 @@ A minimal, single-file PHP-based MySQL client inspired by PHPMyAdmin — reimagi
 - Browse and export table data (CSV)  
 - View table schema (columns, types, keys)  
 - Run custom SQL queries  
-- Responsive and minimal UI (Tailwind CSS)  
+- Lightweight and minimal UI 
 - No external libraries or dependencies  
 
 ---
@@ -42,7 +42,7 @@ enhanced-phpmyadmin/
 1. Clone or Download
 
    ```bash
-   git clone https://github.com/yourusername/enhanced-phpmyadmin.git
+   git clone https://github.com/reeteshjee/phpmyadmin-lite.git
    cd enhanced-phpmyadmin
    ```
 
@@ -99,7 +99,7 @@ This tool is meant for **development** or **local usage only**.
 
 You can add a screenshot here:
 
-assets/screenshot.png
+![phpMyAdmin Lite](assets/phpmyadmin-lite.png)
 
 ---
 
@@ -113,8 +113,8 @@ MIT License
 ## 🙋‍♂️ Author
 
 **Ritesh Ghimire**  
-GitHub: https://github.com/riteshghimire  
-Website: https://sportsguff.com  
+GitHub: https://github.com/reeteshjee  
+Website: https://reeteshghimire.com.np 
 YouTube: https://www.youtube.com/c/letstrythis  
 
 ---

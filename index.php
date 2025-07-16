@@ -766,7 +766,7 @@ if (isset($_POST['action'])) {
 <?php else: ?>
     <div class="header">
         <div>
-            <h1>Enhanced PHPMyAdmin</h1>
+            <h1>PHPMyAdmin Lite</h1>
             <div class="db-info">
                 Connected to: <strong><?php echo $_SESSION['db_name']; ?></strong> 
                 @ <?php echo $_SESSION['db_host']; ?>
