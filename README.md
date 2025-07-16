@@ -95,7 +95,7 @@ This tool is meant for **development** or **local usage only**.
 
 ---
 
-## 📸 Screenshot (optional)
+## 📸 Screenshot
 
 You can add a screenshot here:
 
