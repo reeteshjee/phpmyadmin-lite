@@ -103,13 +103,6 @@ You can add a screenshot here:
 
 ---
 
-## 📄 License
-
-MIT License  
-© 2025 Ritesh Ghimire
-
----
-
 ## 🙋‍♂️ Author
 
 **Ritesh Ghimire**  
